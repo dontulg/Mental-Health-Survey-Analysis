@@ -3,16 +3,17 @@ This project analyzes workplace mental health trends using employee survey data.
 
 
 ## 📁 Project Structure
+```plaintext
 mental-health-survey-analysis/
-├── dataset/ # Raw survey data (Excel files)
-├── cleaned data/ # Cleaned and transformed datasets (CSV)
-├── docs/ # Project documentation:
-│ ├── Data Model Diagram
-│ ├── Data Dictionary
-│ └── Glossary
-├── images/ # Background images, logos
-├── MentalHealthDashboard.pbix # Power BI dashboard file
-├── README.md # Project overview
+├── dataset/               # Raw survey data (Excel files)
+├── cleaned data/          # Cleaned and transformed datasets (CSV)
+├── docs/                  # Project documentation:
+│   ├── Data Model Diagram
+│   ├── Data Dictionary
+│   └── Glossary
+├── images/                # Background images, logos
+├── MentalHealthDashboard.pbix  # Power BI dashboard file
+├── README.md              # Project overview
 
 ## 🎯 Objectives
 
