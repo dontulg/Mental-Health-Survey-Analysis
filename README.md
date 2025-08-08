@@ -12,7 +12,7 @@ mental-health-survey-analysis/
 │   ├── Data Dictionary
 │   └── Glossary
 ├── images/                # Background images, logos
-├── MentalHealthDashboard.pbix  # Power BI dashboard file
+├── Mental Health Survey Analysis.pbix  # Power BI dashboard file
 ├── README.md              # Project overview
 ```
 ---
